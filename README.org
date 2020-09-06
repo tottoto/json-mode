@@ -1,0 +1,3 @@
+* json-mode.el
+
+json-mode.el is a major mode for editing JSON source code.
